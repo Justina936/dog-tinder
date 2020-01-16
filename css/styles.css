@@ -1,0 +1,167 @@
+#title {
+  background-color: #ff4c68;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+h1 {
+  /* font-family: Montserrat; */
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+
+
+}
+
+h2{
+
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+.container-fluid{
+
+  padding: 3% 15%;
+
+}
+.features{
+  position: relative;
+  text-align: center;
+  padding: 7% 15%;
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #6c757d;
+}
+.features-icon{
+  margin-bottom: 1rem;
+  color:#ef8172;
+}
+.features-icon:hover{
+color: #ff4c68;
+}
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 900;
+  display: inline-block;
+  padding-bottom: 4.5rem;
+}
+.Download-buttons {
+  margin: 5% 3% 5% 0;
+}
+.iphone{
+  width: 60%;
+  transform: rotate(25deg);
+  margin-left: 4rem;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: 100;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 4.5rem;
+}
+.nav-item {
+    padding: 0 18px;
+  }
+  .navbar{
+    padding: 0;
+  }
+  .features-box{
+    padding: 5%;
+
+  }
+  /* testimonials */
+#testimonials{
+  background-color: #ef8172;
+
+  color: #fff;
+  text-align: center;
+
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%
+}
+.testimonial-text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+/* press */
+#press{
+  background-color: #ef8172;
+  text-align: center;
+
+}
+.press-image{
+  width: 15%;
+  margin:  20px 20px 50px;
+}
+/* pricing */
+#pricing{
+  padding: 7% 15%;
+}
+.pricing-text{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  text-align: center;
+
+}
+
+.pricing-p{
+  text-align: center;
+  margin-bottom: 1rem
+}
+.card-header{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  text-align: center;
+}
+.card-body{
+  text-align: center;
+}
+.card {
+  margin-top: 5%;
+}
+#cta{
+  text-align: center;
+
+  background-color: #ff4c68;
+  color: white;
+  padding: 7% 15%;
+}
+.cta-text {
+  font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+  font-weight: 600;
+}
+.contact{
+  color: #0040FF;
+
+}
+.contact-us{
+  margin:  0px 10px 20px 10px;
+}
