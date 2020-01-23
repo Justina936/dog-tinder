@@ -1,0 +1,42 @@
+#title {
+  background-color: #ff4c68;
+
+
+}
+h1 {
+  /* font-family: Montserrat; */
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+
+
+}
+
+.container-fluid{
+
+  padding: 3% 15%;
+}
+ {
+  align: center;
+
+}
+.features{
+  text-align: center;
+  padding-top: 15%;
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+p {
+  color: #6c757d;
+}
+.features-icon{
+  color:#ef8172;
+}
+.features-icon:hover{
+color: #ff4c68;
+}
